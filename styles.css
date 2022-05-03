@@ -1,0 +1,32 @@
+body{
+    background-color: #E4D1B9 ;
+}
+img{
+    height: 550px;
+    width: 600px;
+    margin: 150px;
+}
+.kid{
+    background-color: #827397;
+}
+
+p{
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.content{
+    padding: 15px;
+    margin-left: 280px;
+    margin-right: 280px;
+}
+
+#about{
+    margin-top: 60px;
+    background-color: #AC7D88;
+    color:#FAF5E4;
+}
+
+h1{
+    color:#F8B400;
+}
